@@ -1,12 +1,10 @@
-## Hi there 👋
+[AWFixerOS]: https://awifxeros.site
+[Kernel]: https://github.com/awfixer-org/kernel
 
-<!--
+# BrowseOS/AWBrowse
 
-**Here are some ideas to get you started:**
+AWBrowse is the browser that will be shipped with [AWFixerOS]
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BrowseOS will be a combination of AWBrowse, our [Kernel] and a set of network privacy and security tools, because your operating system was never any more than a glorified bootloader for your browser, right?
+
+BrowseOS will not run on any special hardware, it will be designed to run on the hardware that Windows left behind when Micorsoft decided to waste everyone who wanted to keep using windows 10.
